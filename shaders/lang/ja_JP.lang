@@ -1,0 +1,23 @@
+screen.POST_PROCESSING=ポストプロセス（後処理）
+screen.REFLECTIONS=反射
+screen.LIGHTING=光源処理
+screen.WATER=水
+
+value.SUNLIGHT_TYPE.SPECULAR=スペキュラー
+value.SUNLIGHT_TYPE.VANILLA=バニラ (画面内のみ)
+
+option.ENABLE_GAMMA_CORRECTION=ガンマ補正
+option.ENABLE_TONEMAPPING=トーンマッピング
+option.CONTRAST_FILTER_INTENSITY=コントラストフィルターの強さ
+option.TRANSLUCENT_BLUR_INTENSITY=半透明ブロックのぼかしの強さ
+option.ENABLE_SKY_REFLECTION=空の反射
+option.ENABLE_SSR=SSR (画面内反射)
+option.SSR_RAYTRACING=SSR のレイトレーシング
+option.SSR_RAYTRACING_STEPS=SSR のレイトレーシングの処理回数
+option.SSR_BLUR_INTENSITY=SSR ブラーの強度
+option.SSR_ROUGHNESS_BLUR_INTENSITY=ラフネスブラー
+option.SUNLIGHT_INTENSITY=太陽光の強さ
+option.SUNLIGHT_TYPE=太陽光の見た目
+option.WATER_TRANSPARENCY=水の透明度
+option.WATER_SMOOTHNESS=水の滑らかさ
+option.WATER_REFLECTANCE=水の反射率
